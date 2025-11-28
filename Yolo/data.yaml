@@ -1,0 +1,42 @@
+path: C:/Users/swu/Desktop/sample/part_sample_17190/yolo_part
+
+train: images/train
+val: images/val
+
+nc: 34
+
+names:
+  0: Front bumper
+  1: Head lights(L)
+  2: Head lights(R)
+  3: Bonnet
+  4: Windshield
+  5: Roof
+  6: Trunk lid
+  7: Rear lamp(L)
+  8: Rear lamp(R)
+  9: Rear bumper
+  10: Front fender(L)
+  11: Front fender(R)
+  12: Side mirror(L)
+  13: Side mirror(R)
+  14: Front door(L)
+  15: Front door(R)
+  16: Rear door(L)
+  17: Rear door(R)
+  18: Rocker panel(L)
+  19: Rocker panel(R)
+  20: A pillar(L)
+  21: A pillar(R)
+  22: B pillar(L)
+  23: B pillar(R)
+  24: C pillar(L)
+  25: C pillar(R)
+  26: Rear fender(L)
+  27: Rear fender(R)
+  28: Front Wheel(L)
+  29: Front Wheel(R)
+  30: Rear Wheel(L)
+  31: Rear Wheel(R)
+  32: Rear windshield
+  33: Undercarriage
