@@ -2,7 +2,7 @@ import os
 import json
 
 # ===== 경로만 너 PC에 맞게 수정 =====
-PART_SAMPLE_ROOT = r"C:\Users\swu\Desktop\sample\part_sample_17190"
+PART_SAMPLE_ROOT = r"C:\Users\swu\Desktop\sample\part_sample_10000"
 
 IMG_DIR  = os.path.join(PART_SAMPLE_ROOT, r"1.원천데이터", "part")   # 이미지 폴더
 JSON_DIR = os.path.join(PART_SAMPLE_ROOT, r"2.라벨링데이터", "part")  # part 라벨 JSON 폴더

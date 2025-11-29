@@ -4,7 +4,7 @@ import random
 import shutil
 
 # ===== 경로 설정 =====
-PART_SAMPLE_ROOT = r"C:\Users\swu\Desktop\sample\part_sample_17190"
+PART_SAMPLE_ROOT = r"C:\Users\swu\Desktop\sample\part_sample_10000"
 
 IMG_DIR  = os.path.join(PART_SAMPLE_ROOT, r"1.원천데이터", "part")
 LBL_DIR  = os.path.join(PART_SAMPLE_ROOT, "yolo_labels_part_bbox_merged")
