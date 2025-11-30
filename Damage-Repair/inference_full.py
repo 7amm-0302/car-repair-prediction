@@ -1,10 +1,6 @@
 """
 차량 파손 분석 통합 파이프라인
 문경 YOLO + 세영 U-Net/ResNet34
-
-사용법:
-    from inference_full import analyze_car
-    result = analyze_car("차량이미지.jpg")
 """
 
 import os
@@ -25,13 +21,13 @@ IMAGE_SIZE = 224
 THRESHOLD = 0.6
 
 # 문경 YOLO 경로
-YOLO_MODEL_PATH = r"C:\Users\swu\Desktop\sample\part_sample_10000\yolo_part\runs\detect\final\weights\best.pt"
+YOLO_MODEL_PATH = r"C:\Users\swu\Desktop\car-repair-prediction\Yolo\model\best.pt"
 
 # 세영 모델 경로
-SEGMENTATION_MODEL_PATH = r"C:\Users\swu\Desktop\damage_segmentation_output\best_segmentation_model.pth"
-SEGMENTATION_CLASSES_PATH = r"C:\Users\swu\Desktop\damage_segmentation_output\segmentation_classes.json"
-REPAIR_MODEL_PATH = r"C:\Users\swu\Desktop\repair_model_output\best_repair_model.pth"
-REPAIR_CLASSES_PATH = r"C:\Users\swu\Desktop\repair_model_output\repair_classes.json"
+SEGMENTATION_MODEL_PATH = r"C:\Users\swu\Desktop\car-repair-prediction\Damage-Repair\model\best_segmentation_model.pth"
+SEGMENTATION_CLASSES_PATH = r"C:\Users\swu\Desktop\car-repair-prediction\Damage-Repair\model\segmentation_classes.json"
+REPAIR_MODEL_PATH = r"C:\Users\swu\Desktop\car-repair-prediction\Damage-Repair\model\best_repair_model.pth"
+REPAIR_CLASSES_PATH = r"C:\Users\swu\Desktop\car-repair-prediction\Damage-Repair\model\repair_classes.json"
 
 # 부위 클래스 (문경 YOLO)
 PART_CLASSES = [
@@ -43,45 +39,45 @@ PART_CLASSES = [
 ]
 
 # ===================
-# 세영 모델 정의
+# 세영 모델 정의 (학습 시 구조와 동일)
 # ===================
 
 class DoubleConv(nn.Module):
-    def __init__(self, in_ch, out_ch):
+    def __init__(self, in_channels, out_channels):
         super().__init__()
-        self.conv = nn.Sequential(
-            nn.Conv2d(in_ch, out_ch, 3, padding=1),
-            nn.BatchNorm2d(out_ch),
+        self.double_conv = nn.Sequential(
+            nn.Conv2d(in_channels, out_channels, kernel_size=3, padding=1),
+            nn.BatchNorm2d(out_channels),
             nn.ReLU(inplace=True),
-            nn.Conv2d(out_ch, out_ch, 3, padding=1),
-            nn.BatchNorm2d(out_ch),
+            nn.Conv2d(out_channels, out_channels, kernel_size=3, padding=1),
+            nn.BatchNorm2d(out_channels),
             nn.ReLU(inplace=True)
         )
     
     def forward(self, x):
-        return self.conv(x)
+        return self.double_conv(x)
 
 
 class UNet(nn.Module):
-    def __init__(self, in_ch=3, num_classes=5):
+    def __init__(self, in_channels=3, num_classes=5):
         super().__init__()
-        self.enc1 = DoubleConv(in_ch, 64)
+        self.enc1 = DoubleConv(in_channels, 64)
         self.enc2 = DoubleConv(64, 128)
         self.enc3 = DoubleConv(128, 256)
         self.enc4 = DoubleConv(256, 512)
         self.bottleneck = DoubleConv(512, 1024)
         
-        self.up4 = nn.ConvTranspose2d(1024, 512, 2, stride=2)
+        self.upconv4 = nn.ConvTranspose2d(1024, 512, kernel_size=2, stride=2)
         self.dec4 = DoubleConv(1024, 512)
-        self.up3 = nn.ConvTranspose2d(512, 256, 2, stride=2)
+        self.upconv3 = nn.ConvTranspose2d(512, 256, kernel_size=2, stride=2)
         self.dec3 = DoubleConv(512, 256)
-        self.up2 = nn.ConvTranspose2d(256, 128, 2, stride=2)
+        self.upconv2 = nn.ConvTranspose2d(256, 128, kernel_size=2, stride=2)
         self.dec2 = DoubleConv(256, 128)
-        self.up1 = nn.ConvTranspose2d(128, 64, 2, stride=2)
+        self.upconv1 = nn.ConvTranspose2d(128, 64, kernel_size=2, stride=2)
         self.dec1 = DoubleConv(128, 64)
         
-        self.out = nn.Conv2d(64, num_classes, 1)
-        self.pool = nn.MaxPool2d(2)
+        self.out_conv = nn.Conv2d(64, num_classes, kernel_size=1)
+        self.pool = nn.MaxPool2d(kernel_size=2, stride=2)
     
     def forward(self, x):
         e1 = self.enc1(x)
@@ -90,20 +86,20 @@ class UNet(nn.Module):
         e4 = self.enc4(self.pool(e3))
         b = self.bottleneck(self.pool(e4))
         
-        d4 = self.dec4(torch.cat([self.up4(b), e4], 1))
-        d3 = self.dec3(torch.cat([self.up3(d4), e3], 1))
-        d2 = self.dec2(torch.cat([self.up2(d3), e2], 1))
-        d1 = self.dec1(torch.cat([self.up1(d2), e1], 1))
+        d4 = self.dec4(torch.cat([self.upconv4(b), e4], dim=1))
+        d3 = self.dec3(torch.cat([self.upconv3(d4), e3], dim=1))
+        d2 = self.dec2(torch.cat([self.upconv2(d3), e2], dim=1))
+        d1 = self.dec1(torch.cat([self.upconv1(d2), e1], dim=1))
         
-        return self.out(d1)
+        return self.out_conv(d1)
 
 
-class RepairClassifier(nn.Module):
+class RepairMultiLabelClassifier(nn.Module):
     def __init__(self, num_classes):
         super().__init__()
         resnet = models.resnet34(weights=None)
         
-        self.conv1 = nn.Conv2d(4, 64, 7, stride=2, padding=3, bias=False)
+        self.conv1 = nn.Conv2d(4, 64, kernel_size=7, stride=2, padding=3, bias=False)
         self.bn1 = resnet.bn1
         self.relu = resnet.relu
         self.maxpool = resnet.maxpool
@@ -113,7 +109,7 @@ class RepairClassifier(nn.Module):
         self.layer4 = resnet.layer4
         self.avgpool = resnet.avgpool
         
-        self.fc = nn.Sequential(
+        self.classifier = nn.Sequential(
             nn.Dropout(0.3),
             nn.Linear(512, 256),
             nn.ReLU(),
@@ -132,7 +128,7 @@ class RepairClassifier(nn.Module):
         x = self.layer4(x)
         x = self.avgpool(x)
         x = torch.flatten(x, 1)
-        return self.fc(x)
+        return self.classifier(x)
 
 
 # ===================
@@ -167,7 +163,7 @@ class FullPipeline:
         self.idx_to_damage = {v: k for k, v in seg_info["class_mapping"].items()}
         self.idx_to_damage[0] = "Background"
         
-        self.seg_model = UNet(in_ch=3, num_classes=self.seg_classes)
+        self.seg_model = UNet(in_channels=3, num_classes=self.seg_classes)
         self.seg_model.load_state_dict(torch.load(SEGMENTATION_MODEL_PATH, map_location=self.device))
         self.seg_model.to(self.device)
         self.seg_model.eval()
@@ -180,7 +176,7 @@ class FullPipeline:
         
         self.repair_methods = rep_info["repair_methods"]
         
-        self.rep_model = RepairClassifier(num_classes=len(self.repair_methods))
+        self.rep_model = RepairMultiLabelClassifier(num_classes=len(self.repair_methods))
         self.rep_model.load_state_dict(torch.load(REPAIR_MODEL_PATH, map_location=self.device))
         self.rep_model.to(self.device)
         self.rep_model.eval()
@@ -188,7 +184,7 @@ class FullPipeline:
     
     def detect_parts(self, img_path):
         """문경 YOLO로 부위 검출"""
-        results = self.yolo(img_path, conf=0.15)  # 문경 threshold
+        results = self.yolo(img_path, conf=0.15)
         
         detections = []
         for r in results:
@@ -259,20 +255,20 @@ class FullPipeline:
         
         return {
             "damage_type": damage_type,
-            "damage_area_ratio": round(area_ratio, 4),
+            "damage_area_ratio": round(float(area_ratio), 4),
             "repair_methods": methods,
             "confidences": confs
         }
     
     def analyze(self, img_path):
-        """전체 분석 (YOLO + 세그멘테이션 + 수리 분류)"""
+        """전체 분석"""
         img = Image.open(img_path).convert("RGB")
         w, h = img.size
         
-        # 1. 문경 YOLO
+        # 문경 YOLO
         detections = self.detect_parts(img_path)
         
-        # 2. 각 부위별 세영 모델 적용
+        # 각 부위별 세영 모델 적용
         items = []
         for det in detections:
             x1, y1, x2, y2 = det["bbox"]
@@ -309,24 +305,13 @@ _pipeline = None
 
 def analyze_car(image_path):
     """
-    메인 함수 - 이미지 경로만 넣으면 끝
+    메인 함수
     
     Args:
         image_path: 차량 이미지 경로
     
     Returns:
-        {
-            "image_id": "xxx.jpg",
-            "repair_items": [
-                {
-                    "part": "Front bumper",
-                    "damage_type": "Scratched",
-                    "damage_area_ratio": 0.35,
-                    "repair_methods": ["coating", "exchange"],
-                    ...
-                }
-            ]
-        }
+        {"image_id": "...", "repair_items": [...]}
     """
     global _pipeline
     if _pipeline is None:
@@ -349,7 +334,6 @@ if __name__ == "__main__":
         print(f"[ERROR] {e}")
         exit(1)
     
-    # 테스트 이미지
     test_path = r"C:\Users\swu\Desktop\damage_sample\images"
     
     if os.path.isdir(test_path):
