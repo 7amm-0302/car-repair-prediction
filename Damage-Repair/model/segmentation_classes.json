@@ -1,0 +1,16 @@
+{
+  "damage_types": [
+    "Breakage",
+    "Crushed",
+    "Scratched",
+    "Separated"
+  ],
+  "num_classes": 5,
+  "class_mapping": {
+    "Breakage": 1,
+    "Crushed": 2,
+    "Scratched": 3,
+    "Separated": 4
+  },
+  "background_class": 0
+}

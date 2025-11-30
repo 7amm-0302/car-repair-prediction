@@ -1,0 +1,11 @@
+{
+  "repair_methods": [
+    "coating",
+    "exchange",
+    "repair",
+    "sheet_metal"
+  ],
+  "num_classes": 4,
+  "threshold": 0.6,
+  "model_type": "multi-label"
+}
