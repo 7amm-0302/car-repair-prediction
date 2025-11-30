@@ -18,7 +18,7 @@ import numpy as np
 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 IMAGE_SIZE = 224
-THRESHOLD = 0.6
+THRESHOLD = 0.8
 
 # 문경 YOLO 경로
 YOLO_MODEL_PATH = r"C:\Users\swu\Desktop\car-repair-prediction\Yolo\model\best.pt"
