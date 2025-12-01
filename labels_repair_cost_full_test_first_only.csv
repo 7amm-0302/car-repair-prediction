@@ -1,0 +1,501 @@
+file_name,image_code,accident_id,repair,car_type,total_cost
+0203555_as-0098725.jpg,203555,as-0098725,"Bumper:coating,exchange",현대,332989
+0250112_as-0098728.jpg,250112,as-0098728,"Rear fender(L):coating,sheet_metal,exchange|Rear bumper:coating,exchange",현대,622499
+0306841_as-0098733.jpg,306841,as-0098733,"Front fender(R):coating,exchange|Front fender(L):coating,exchange|A pillar(R):coating,sheet_metal|Head lights:exchange|Front bumper:coating,exchange|Front Wheel(L):exchange",기아,1619998
+0125769_as-0098734.jpg,125769,as-0098734,Front bumper:repair|Bumper:coating,현대,699597
+0468337_as-0098735.jpg,468337,as-0098735,"Front bumper:coating,exchange|Head lights:exchange|Front fender(L):coating,exchange",현대,1117057
+0141491_as-0098736.jpg,141491,as-0098736,"Front fender(R):coating,sheet_metal|Front fender(L):coating,exchange|Front Wheel(L):exchange,sheet_metal|Head lights:exchange|Front Wheel(R):sheet_metal|Front bumper:coating,exchange",현대,4961658
+0375458_as-0098738.jpg,375458,as-0098738,Side mirror(L):exchange,현대,626459
+0123278_as-0098739.jpg,123278,as-0098739,"Front fender(R):coating,sheet_metal|Front bumper:coating,exchange",현대,616800
+0069744_as-0098743.jpg,69744,as-0098743,"Front door(L):coating,sheet_metal|Rear door(L):coating,sheet_metal|Rocker panel:exchange|Rear fender(L):coating,sheet_metal",현대,1165518
+0190654_as-0098747.jpg,190654,as-0098747,"Rear bumper:coating,exchange",현대,958519
+0233464_as-0098751.jpg,233464,as-0098751,"A pillar(R):sheet_metal|Front fender(L):coating,exchange|Head lights:exchange|Front bumper:coating,exchange|Front Wheel(L):exchange",기아,1180418
+0211491_as-0098753.jpg,211491,as-0098753,"Rear Wheel(R):exchange|Rear bumper:coating,exchange|Rear Wheel(L):exchange|Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal",한국GM,1274885
+0395846_as-0098755.jpg,395846,as-0098755,"Rear bumper:coating,repair",기아,468500
+0310907_as-0098758.jpg,310907,as-0098758,"Rear bumper:coating,exchange",현대,310699
+0487553_as-0098764.jpg,487553,as-0098764,Front bumper:repair|Bumper:coating,현대,763907
+0196166_as-0098767.jpg,196166,as-0098767,"Trunk lid:coating,exchange,sheet_metal|Rear bumper:coating,exchange",현대,693299
+0254763_as-0098768.jpg,254763,as-0098768,"Front bumper:coating,repair|Rear fender(L):coating,sheet_metal|Rear bumper:coating,repair|A pillar(L):coating,sheet_metal|Rear Wheel(R):exchange|Rear door(R):coating,sheet_metal|Front door(L):coating,exchange|Front Wheel(R):exchange|B pillar(L):sheet_metal|Rocker panel:coating,exchange,sheet_metal|Front fender(L):coating,exchange|Rear door(L):coating,sheet_metal|Front Wheel(L):exchange",현대,3651744
+0469669_as-0098772.jpg,469669,as-0098772,Front bumper:repair|Bumper:coating,현대,672467
+0348890_as-0098782.jpg,348890,as-0098782,"Bumper:coating,exchange|Head lights:exchange",현대,1014809
+0410551_as-0098787.jpg,410551,as-0098787,Front Wheel(R):exchange,기아,432941
+0371973_as-0098788.jpg,371973,as-0098788,"Bumper:coating,exchange|Front bumper:repair",현대,406077
+0025829_as-0098791.jpg,25829,as-0098791,"Rear bumper:coating,repair",현대,426553
+0207232_as-0098792.jpg,207232,as-0098792,"Rear fender(L):coating,sheet_metal,exchange|Rear Wheel(L):exchange|Rear door(L):coating,exchange|Rear bumper:coating,exchange",현대,1329990
+0420344_as-0098793.jpg,420344,as-0098793,"Rear bumper:coating,exchange",현대,689269
+0354012_as-0098795.jpg,354012,as-0098795,"Front fender(L):coating,exchange,sheet_metal|Head lights:exchange|Front bumper:coating,repair",현대,593676
+0149771_as-0098798.jpg,149771,as-0098798,"Front fender(R):coating,exchange|Head lights:exchange|Front bumper:coating,repair|Front Wheel(R):exchange",현대,672356
+0306901_as-0098799.jpg,306901,as-0098799,"Bumper:coating,exchange|Rear door(L):coating,exchange,sheet_metal|Head lights:exchange|Rear fender(L):coating,sheet_metal",현대,1494339
+0050388_as-0098801.jpg,50388,as-0098801,"Front door(R):coating,exchange|Rear door(R):coating,exchange|B pillar(R):sheet_metal",현대,655878
+0472899_as-0098802.jpg,472899,as-0098802,"Bumper:coating,exchange",현대,341239
+0160490_as-0098806.jpg,160490,as-0098806,"Bumper:coating,exchange",현대,519619
+0046760_as-0098808.jpg,46760,as-0098808,"Rear Wheel(R):exchange|Rear fender(R):coating,sheet_metal|Trunk lid:sheet_metal|Rear bumper:coating,exchange",기아,800551
+0487292_as-0098809.jpg,487292,as-0098809,"Front fender(L):coating,sheet_metal|Front bumper:coating,repair",현대,614253
+0216535_as-0098810.jpg,216535,as-0098810,"Rear Wheel(L):exchange|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",현대,864497
+0276573_as-0098817.jpg,276573,as-0098817,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange|Rocker panel:exchange",현대,894858
+0320514_as-0098821.jpg,320514,as-0098821,"Rear bumper:coating,exchange",현대,416118
+0080813_as-0098829.jpg,80813,as-0098829,"Front fender(L):coating,sheet_metal|Front Wheel(L):exchange|Front bumper:coating,repair",현대,999253
+0219167_as-0098830.jpg,219167,as-0098830,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal|Rear bumper:coating,exchange",현대,1110378
+0331591_as-0098833.jpg,331591,as-0098833,"C pillar(L):exchange|Rear bumper:coating,exchange|Rear door(L):coating,sheet_metal|Rear Wheel(L):exchange|Rear fender(L):coating,exchange,sheet_metal",현대,1283199
+0016664_as-0098835.jpg,16664,as-0098835,"Bumper:coating,exchange",현대,672669
+0509247_as-0098836.jpg,509247,as-0098836,"Front bumper:coating,exchange|Head lights:exchange|Front fender(L):coating,exchange",쌍용,621795
+0064202_as-0098838.jpg,64202,as-0098838,"Front door(L):coating,exchange,sheet_metal|Front bumper:coating|Side mirror(L):coating|Rear fender(L):coating,sheet_metal|Front fender(L):coating,sheet_metal|Rear door(L):coating,exchange,sheet_metal",르노삼성,1533608
+0338341_as-0098841.jpg,338341,as-0098841,"Front fender(R):coating,sheet_metal|Front bumper:coating,exchange|Head lights:exchange",기아,539923
+0316445_as-0098842.jpg,316445,as-0098842,"Rear bumper:coating,exchange",현대,392038
+0250339_as-0098845.jpg,250339,as-0098845,"Rear fender(L):coating,sheet_metal|Rear bumper:coating,repair",현대,736317
+0125282_as-0098848.jpg,125282,as-0098848,"Bumper:coating,exchange",현대,618259
+0544131_as-0098850.jpg,544131,as-0098850,"Front door(R):coating,exchange",현대,359098
+0318184_as-0098852.jpg,318184,as-0098852,"Front door(L):coating,exchange,sheet_metal|Front fender(L):coating,exchange|Head lights:exchange|Front bumper:coating,exchange|Front Wheel(L):exchange",현대,1080758
+0504949_as-0098854.jpg,504949,as-0098854,"Rear fender(R):coating,exchange,sheet_metal|Rear door(R):coating,exchange|Front door(R):coating,exchange,sheet_metal|Rear bumper:coating,repair",쌍용,1358305
+0038676_as-0098855.jpg,38676,as-0098855,"Front bumper:coating,exchange,sheet_metal",기아,396369
+0467691_as-0098859.jpg,467691,as-0098859,"Bumper:coating,exchange",현대,667239
+0382081_as-0098862.jpg,382081,as-0098862,Front bumper:repair|Bumper:coating,현대,516017
+0389594_as-0098864.jpg,389594,as-0098864,"Front Wheel(L):sheet_metal|Front fender(R):sheet_metal,coating|Front fender(L):sheet_metal,coating|Bonnet:coating|Head lights:exchange|Front bumper:coating,exchange",현대,1180388
+0245480_as-0098865.jpg,245480,as-0098865,Front bumper:repair|Bumper:coating,현대,527237
+0569102_as-0098870.jpg,569102,as-0098870,"Bumper:coating,exchange",현대,579569
+0421989_as-0098871.jpg,421989,as-0098871,"Front bumper:coating,exchange",현대,869908
+0049109_as-0098875.jpg,49109,as-0098875,Rear bumper:exchange,쌍용,80120
+0376810_as-0098879.jpg,376810,as-0098879,"Rear fender(L):coating,exchange,sheet_metal|Bumper:coating,exchange|Rear bumper:coating,exchange",현대,1392169
+0096537_as-0098887.jpg,96537,as-0098887,"Roof:exchange|Front door(L):coating,sheet_metal|Front fender(L):coating,exchange|Front Wheel(L):exchange,sheet_metal|Head lights:exchange|A pillar(L):coating,exchange|Front bumper:coating,exchange",기아,2102323
+0440860_as-0098888.jpg,440860,as-0098888,"Rear fender(L):coating,sheet_metal|Front bumper:repair|Bumper:coating|Rear bumper:coating,exchange",현대,1701087
+0246317_as-0098892.jpg,246317,as-0098892,"Bumper:coating,exchange|Front bumper:repair",현대,730007
+0033410_as-0098895.jpg,33410,as-0098895,"Bumper:coating,exchange|Head lights:exchange",현대,296939
+0029445_as-0098898.jpg,29445,as-0098898,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal|Rear bumper:coating,repair",현대,1149476
+0273291_as-0098899.jpg,273291,as-0098899,Rear bumper:repair|Bumper:coating,현대,429927
+0275706_as-0098900.jpg,275706,as-0098900,"Rear fender(L):coating,exchange,sheet_metal|Rocker panel:coating,exchange|Front door(L):coating,sheet_metal|Rear Wheel(L):exchange",기아,2170543
+0028011_as-0098901.jpg,28011,as-0098901,"Rear bumper:coating,repair",현대,428907
+0034920_as-0098902.jpg,34920,as-0098902,"Rocker panel:coating,sheet_metal|Rear fender(R):coating,sheet_metal|Front bumper:coating,repair",기아,1365238
+0418837_as-0098903.jpg,418837,as-0098903,Front bumper:repair|Bumper:coating,현대,345887
+0037060_as-0098904.jpg,37060,as-0098904,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal|Rear bumper:coating,repair",현대,1180127
+0226570_as-0098905.jpg,226570,as-0098905,"Bumper:coating,exchange|Head lights:exchange",현대,723929
+0160488_as-0098907.jpg,160488,as-0098907,"Rear bumper:coating,exchange",현대,281469
+0489769_as-0098908.jpg,489769,as-0098908,"Front bumper:coating,exchange|Head lights:exchange|Front fender(L):coating,sheet_metal",현대,491871
+0317321_as-0098913.jpg,317321,as-0098913,"Head lights:exchange|Front fender(R):coating,exchange,sheet_metal|Front bumper:exchange",쌍용,441818
+0470991_as-0098915.jpg,470991,as-0098915,"Bumper:coating,exchange",현대,293839
+0345418_as-0098918.jpg,345418,as-0098918,"Front bumper:coating,exchange|Front fender(R):coating,exchange",현대,606061
+0149097_as-0098920.jpg,149097,as-0098920,"Bumper:coating,exchange",현대,327409
+0472192_as-0098923.jpg,472192,as-0098923,"Side mirror(L):exchange|Rear fender(R):coating,sheet_metal|Rear door(R):coating,sheet_metal|Rocker panel:exchange",현대,1335159
+0087481_as-0098926.jpg,87481,as-0098926,Front bumper:repair|Bumper:coating,현대,411157
+0075880_as-0098928.jpg,75880,as-0098928,"Rear bumper:coating,exchange",현대,691078
+0034842_as-0098931.jpg,34842,as-0098931,"Rear fender(R):coating,sheet_metal|Rear bumper:coating,repair",현대,972106
+0390865_as-0098936.jpg,390865,as-0098936,"Side mirror(L):exchange|Rear fender(L):coating,exchange,sheet_metal|Rear door(L):coating,exchange,sheet_metal|Bumper:exchange",현대,1154599
+0064814_as-0098937.jpg,64814,as-0098937,"Rocker panel:exchange|Rear bumper:coating,exchange|Rear fender(R):coating,sheet_metal|Rear fender(L):coating,exchange|Trunk lid:coating,exchange,sheet_metal",현대,1845809
+0327606_as-0098938.jpg,327606,as-0098938,"Rear bumper:coating,repair",현대,530635
+0255353_as-0098940.jpg,255353,as-0098940,"Trunk lid:coating,exchange|Rear bumper:coating,exchange",현대,692879
+0073219_as-0098942.jpg,73219,as-0098942,"Bumper:coating,exchange|Head lights:exchange",현대,508959
+0495571_as-0098945.jpg,495571,as-0098945,"Rear bumper:coating,exchange",현대,361259
+0463007_as-0098947.jpg,463007,as-0098947,"Front bumper:coating,exchange",현대,295629
+0190150_as-0098948.jpg,190150,as-0098948,"Rear door(L):coating,exchange,sheet_metal|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",현대,1342957
+0275574_as-0098952.jpg,275574,as-0098952,"Bumper:coating,exchange",현대,1100269
+0124167_as-0098953.jpg,124167,as-0098953,"Front fender(R):coating,exchange|Head lights:exchange|Front bumper:coating,repair|Front Wheel(R):exchange",현대,527946
+0067089_as-0098954.jpg,67089,as-0098954,"Bumper:coating,exchange",현대,506219
+0221634_as-0098957.jpg,221634,as-0098957,"Bumper:coating,exchange|Head lights:exchange",현대,502409
+0275992_as-0098958.jpg,275992,as-0098958,"Rear bumper:coating,exchange",기아,437278
+0489404_as-0098964.jpg,489404,as-0098964,"Front bumper:coating,exchange|Head lights:exchange",기아,335880
+0374793_as-0098968.jpg,374793,as-0098968,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,339357
+0313721_as-0098970.jpg,313721,as-0098970,"Rear fender(R):coating,exchange,sheet_metal|C pillar(R):exchange|Rear door(R):exchange",현대,481459
+0272091_as-0098973.jpg,272091,as-0098973,"Front door(L):coating,exchange,sheet_metal|Front fender(R):coating,sheet_metal|Front bumper:coating|Rear fender(R):coating,sheet_metal|Rear fender(L):coating,sheet_metal|Bonnet:coating|Front fender(L):coating,sheet_metal|Rear bumper:coating|Rear door(L):coating,exchange,sheet_metal|Rear door(R):exchange",현대,1981648
+0326395_as-0098983.jpg,326395,as-0098983,"Rear Wheel(R):exchange|Front bumper:coating,repair|Front Wheel(R):exchange|Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal",현대,2217340
+0390750_as-0098988.jpg,390750,as-0098988,"Front bumper:repair,coating",현대,448713
+0191903_as-0098989.jpg,191903,as-0098989,"Front bumper:coating,exchange|Head lights:exchange|Front fender(L):coating,sheet_metal",현대,606081
+0228705_as-0098992.jpg,228705,as-0098992,"Front fender(R):coating,exchange|Front door(R):coating,exchange,sheet_metal",현대,656698
+0413957_as-0098994.jpg,413957,as-0098994,"Bumper:coating,exchange",현대,575649
+0383611_as-0098996.jpg,383611,as-0098996,"Front bumper:coating,repair",현대,456300
+0045922_as-0098997.jpg,45922,as-0098997,"Front fender(R):coating,sheet_metal|Front bumper:coating,repair",기아,577298
+0220246_as-0099003.jpg,220246,as-0099003,"Front bumper:coating,repair|Rear bumper:coating,exchange",현대,699118
+0381745_as-0099004.jpg,381745,as-0099004,"Bumper:coating,exchange|Head lights:exchange",현대,502409
+0337893_as-0099006.jpg,337893,as-0099006,"Rear fender(L):sheet_metal,coating|Rear bumper:coating,exchange",현대,744369
+0593678_as-0099010.jpg,593678,as-0099010,"Rear bumper:coating,exchange",기아,301589
+0243836_as-0099011.jpg,243836,as-0099011,"Bumper:coating,exchange|Head lights:exchange|Rear bumper:coating,repair",현대,1177817
+0251837_as-0099013.jpg,251837,as-0099013,"Rear bumper:coating,exchange",현대,363919
+0252730_as-0099014.jpg,252730,as-0099014,"Bumper:coating,exchange|Head lights:exchange",현대,512399
+0601237_as-0099015.jpg,601237,as-0099015,"Front fender(L):coating,exchange|Front bumper:repair,coating",현대,762656
+0073757_as-0099016.jpg,73757,as-0099016,"Rear bumper:coating,repair|Side mirror(L):coating|Front door(L):coating,exchange,sheet_metal|Rear fender(L):coating,sheet_metal|Rear door(L):coating,exchange,sheet_metal",현대,1641874
+0113922_as-0099017.jpg,113922,as-0099017,"Bumper:coating,exchange|Front bumper:repair",기아,715077
+0090621_as-0099018.jpg,90621,as-0099018,"Bumper:coating,exchange|Front bumper:repair",현대,548807
+0351203_as-0099019.jpg,351203,as-0099019,"Bumper:coating,exchange|Head lights:exchange",현대,303469
+0446259_as-0099022.jpg,446259,as-0099022,"Rear bumper:coating,repair",현대,467417
+0602303_as-0099024.jpg,602303,as-0099024,"Rear fender(L):sheet_metal,coating|Rear door(L):coating,exchange",현대,984329
+0149283_as-0099027.jpg,149283,as-0099027,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal|Rocker panel:exchange",현대,799149
+0397815_as-0099033.jpg,397815,as-0099033,"Rear fender(L):coating,exchange,sheet_metal|Rear bumper:coating,repair",현대,853687
+0329452_as-0099037.jpg,329452,as-0099037,"Front fender(L):coating,exchange,sheet_metal|Front bumper:coating,exchange,repair",기아,562880
+0134439_as-0099038.jpg,134439,as-0099038,"Bumper:coating,exchange",기아,493899
+0365736_as-0099041.jpg,365736,as-0099041,"Rear bumper:coating,exchange",르노삼성,330819
+0056226_as-0099050.jpg,56226,as-0099050,"Rear fender(L):coating,sheet_metal|Rear door(L):coating,sheet_metal|Rear bumper:coating,exchange",현대,950779
+0497232_as-0099052.jpg,497232,as-0099052,Front bumper:repair|Bumper:coating,현대,727137
+0198365_as-0099057.jpg,198365,as-0099057,"Bumper:coating,exchange",현대,433259
+0399403_as-0099059.jpg,399403,as-0099059,Front bumper:repair|Bumper:coating,현대,738917
+0128711_as-0099060.jpg,128711,as-0099060,"Bumper:coating,exchange|Head lights:exchange",현대,296939
+0435857_as-0099062.jpg,435857,as-0099062,"Rear fender(R):coating,sheet_metal|Rear bumper:coating,repair",현대,759007
+0550680_as-0099066.jpg,550680,as-0099066,"Front fender(R):coating,exchange|Front bumper:coating,exchange|Head lights:exchange",현대,637697
+0124958_as-0099067.jpg,124958,as-0099067,"Bumper:coating,exchange",현대,544159
+0571962_as-0099070.jpg,571962,as-0099070,"Bumper:coating,exchange",르노삼성,340889
+0387276_as-0099072.jpg,387276,as-0099072,"C pillar(L):exchange|Rocker panel:exchange|Rear bumper:coating,exchange|Rear fender(R):coating,sheet_metal|Rear fender(L):coating,exchange|Trunk lid:coating,exchange,sheet_metal",현대,1945329
+0528493_as-0099076.jpg,528493,as-0099076,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,sheet_metal|Rocker panel:exchange",현대,1187629
+0036491_as-0099078.jpg,36491,as-0099078,"Front bumper:coating,exchange|Front Wheel(L):exchange",현대,694461
+0235451_as-0099084.jpg,235451,as-0099084,"Bumper:coating,exchange|Head lights:exchange",현대,643509
+0176654_as-0099086.jpg,176654,as-0099086,"Rear fender(L):coating,sheet_metal|Rear bumper:coating,exchange",기아,778029
+0315429_as-0099092.jpg,315429,as-0099092,"Rear bumper:coating,exchange",현대,355319
+0227230_as-0099098.jpg,227230,as-0099098,"Rear bumper:coating,exchange",현대,401789
+0414330_as-0099100.jpg,414330,as-0099100,"Front bumper:coating,exchange|Head lights:exchange|Front fender(L):coating,sheet_metal",기아,566298
+0605369_as-0099102.jpg,605369,as-0099102,"Rear fender(L):coating,sheet_metal,exchange|Rear bumper:coating,exchange",현대,648079
+0330756_as-0099103.jpg,330756,as-0099103,"Rear bumper:coating,repair",기아,439487
+0503089_as-0099105.jpg,503089,as-0099105,"Bumper:coating,exchange|Head lights:exchange|Rear bumper:coating,repair",현대,1177817
+0350328_as-0099113.jpg,350328,as-0099113,Side mirror(L):exchange,현대,375499
+0433170_as-0099116.jpg,433170,as-0099116,"Front fender(R):coating,exchange,sheet_metal|Front fender(L):coating,exchange|Front Wheel(L):coating,exchange,sheet_metal|Head lights:exchange|Front bumper:coating,exchange",기아,1439758
+0327715_as-0099120.jpg,327715,as-0099120,"Bumper:coating,exchange",현대,403389
+0373109_as-0099121.jpg,373109,as-0099121,"Rear bumper:coating,exchange",기아,334428
+0233885_as-0099124.jpg,233885,as-0099124,"Rear bumper:coating,repair",현대,423737
+0161654_as-0099125.jpg,161654,as-0099125,"Front bumper:coating,exchange|Head lights:exchange|Front Wheel(L):sheet_metal",현대,825848
+0222315_as-0099128.jpg,222315,as-0099128,"Rear door(R):coating,exchange,sheet_metal",현대,524169
+0564659_as-0099133.jpg,564659,as-0099133,"Bumper:coating,exchange|Rocker panel:exchange",현대,614729
+0251414_as-0099137.jpg,251414,as-0099137,"Rear bumper:coating,exchange|Trunk lid:coating,sheet_metal",현대,890099
+0116171_as-0099140.jpg,116171,as-0099140,"Front bumper:repair|Bumper:coating|Rear bumper:coating,exchange",한국GM,807537
+0104604_as-0099141.jpg,104604,as-0099141,B pillar(R):exchange|Roof:exchange|Rear Wheel(R):exchange|Front bumper:repair|Rocker panel:exchange|Bumper:coating,현대,1527237
+0330559_as-0099144.jpg,330559,as-0099144,"Trunk lid:coating,exchange|Rear bumper:coating,exchange",현대,637939
+0315293_as-0099151.jpg,315293,as-0099151,"Trunk lid:coating,exchange|Rear bumper:coating,exchange",현대,230525
+0628082_as-0099154.jpg,628082,as-0099154,"Bumper:coating,exchange",현대,591129
+0486735_as-0099155.jpg,486735,as-0099155,"Front bumper:coating,exchange|Head lights:exchange|Front Wheel(L):exchange",르노삼성,450131
+0064508_as-0099156.jpg,64508,as-0099156,Side mirror(L):exchange,현대,664569
+0358124_as-0099158.jpg,358124,as-0099158,"B pillar(R):coating|Rear bumper:coating,repair|Rear Wheel(R):exchange|Rocker panel:exchange|Front door(R):coating,exchange|B pillar(L):exchange|Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange",현대,2405428
+0427918_as-0099166.jpg,427918,as-0099166,"Front bumper:coating,exchange",현대,345659
+0110003_as-0099169.jpg,110003,as-0099169,"Front bumper:coating,exchange|Front fender(R):coating,exchange",현대,530808
+0212177_as-0099177.jpg,212177,as-0099177,"Rear bumper:coating,exchange|Trunk lid:coating,sheet_metal",현대,844459
+0009223_as-0099186.jpg,9223,as-0099186,"Rear fender(L):coating,sheet_metal|Rear bumper:coating,repair|Rocker panel:exchange|Rear door(L):coating,sheet_metal|Rear fender(R):coating,sheet_metal",현대,1849567
+0053770_as-0099188.jpg,53770,as-0099188,"Front bumper:coating,repair",현대,454213
+0253272_as-0099190.jpg,253272,as-0099190,"Rear bumper:coating,exchange",쌍용,339519
+0454790_as-0099191.jpg,454790,as-0099191,"Rear door(R):coating,exchange|B pillar(R):sheet_metal",현대,718109
+0042965_as-0099198.jpg,42965,as-0099198,Side mirror(L):exchange,현대,375499
+0247243_as-0099199.jpg,247243,as-0099199,Side mirror(L):exchange,현대,43030
+0198403_as-0099201.jpg,198403,as-0099201,Front bumper:repair|Bumper:coating,현대,748457
+0331421_as-0099202.jpg,331421,as-0099202,Rear bumper:coating,한국GM,288429
+0091186_as-0099209.jpg,91186,as-0099209,"Rear Wheel(R):exchange|Rear fender(R):coating,sheet_metal|Rear bumper:coating,repair",현대,758077
+0454235_as-0099210.jpg,454235,as-0099210,"Bumper:coating,exchange|Head lights:exchange",현대,341339
+0107868_as-0099216.jpg,107868,as-0099216,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,415707
+0215303_as-0099222.jpg,215303,as-0099222,"Bumper:coating,exchange|Front bumper:repair|Head lights:exchange",현대,420477
+0165512_as-0099224.jpg,165512,as-0099224,"Rear bumper:coating,repair",현대,339967
+0403909_as-0099227.jpg,403909,as-0099227,"Rear bumper:coating,exchange",현대,377179
+0380885_as-0099229.jpg,380885,as-0099229,"Rear bumper:coating,exchange",현대,355319
+0120895_as-0099232.jpg,120895,as-0099232,"Bumper:coating,exchange|Head lights:exchange",현대,328519
+0047785_as-0099238.jpg,47785,as-0099238,"Front fender(L):coating,sheet_metal|Front bumper:coating,repair",현대,717256
+0338818_as-0099243.jpg,338818,as-0099243,"Bumper:coating,exchange",기아,345489
+0414325_as-0099244.jpg,414325,as-0099244,"Rear fender(R):coating,sheet_metal|Rear bumper:coating,exchange",현대,952549
+0282761_as-0099251.jpg,282761,as-0099251,Front bumper:repair|Bumper:coating,현대,398162
+0213467_as-0099256.jpg,213467,as-0099256,"Rear bumper:coating,exchange",현대,351019
+0321546_as-0099257.jpg,321546,as-0099257,"Rear bumper:coating,repair",현대,518367
+0230455_as-0099262.jpg,230455,as-0099262,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal|Rear bumper:coating,repair",현대,1071467
+0428077_as-0099264.jpg,428077,as-0099264,"Bumper:coating,exchange|Head lights:exchange",현대,937639
+0295000_as-0099266.jpg,295000,as-0099266,"Rear bumper:coating,exchange",현대,275458
+0473129_as-0099273.jpg,473129,as-0099273,"Front bumper:repair,coating",현대,542216
+0023223_as-0099274.jpg,23223,as-0099274,Front bumper:repair|Bumper:coating,현대,449257
+0040241_as-0099276.jpg,40241,as-0099276,"Rear bumper:coating,repair",현대,504622
+0271453_as-0099282.jpg,271453,as-0099282,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,429837
+0484767_as-0099285.jpg,484767,as-0099285,"Trunk lid:coating|Rear fender(R):coating,sheet_metal|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",현대,1351237
+0088376_as-0099288.jpg,88376,as-0099288,"Bumper:coating,exchange|Head lights:exchange",현대,1031659
+0328742_as-0099292.jpg,328742,as-0099292,"Rear Wheel(R):exchange|Rocker panel:exchange|Rear fender(R):coating,sheet_metal,exchange|Rear bumper:coating,exchange",기아,1178129
+0004703_as-0099293.jpg,4703,as-0099293,"Front door(R):exchange,sheet_metal|Front fender(R):exchange",현대,626819
+0117327_as-0099302.jpg,117327,as-0099302,"Bumper:coating,exchange|Head lights:exchange",현대,394939
+0160408_as-0099304.jpg,160408,as-0099304,Front bumper:repair|Bumper:coating,현대,656837
+0559126_as-0099306.jpg,559126,as-0099306,"Rear Wheel(R):exchange|C pillar(L):exchange|Trunk lid:exchange,coating|Rocker panel:exchange|Rear bumper:coating,exchange|Rear door(R):coating|Bumper:exchange,coating|Head lights:exchange|C pillar(R):exchange|Rear Wheel(L):exchange|Rear door(L):coating|Rear fender(L):sheet_metal,exchange,coating|Rear fender(R):sheet_metal,exchange,coating",현대,6174039
+0143627_as-0099308.jpg,143627,as-0099308,Rear bumper:coating|Front bumper:repair,현대,525552
+0631123_as-0099320.jpg,631123,as-0099320,"Bumper:coating,exchange",현대,551379
+0009342_as-0099321.jpg,9342,as-0099321,"Rear bumper:coating,exchange|Trunk lid:coating,sheet_metal",현대,633318
+0062740_as-0099322.jpg,62740,as-0099322,"Bumper:coating,exchange|Head lights:exchange",현대,840569
+0109809_as-0099324.jpg,109809,as-0099324,"Rear door(R):coating,exchange",현대,760259
+0062032_as-0099328.jpg,62032,as-0099328,Rear Wheel(R):exchange,현대,341221
+0400934_as-0099331.jpg,400934,as-0099331,"Front door(R):exchange,sheet_metal|Rear door(R):coating,exchange,sheet_metal",현대,674379
+0391338_as-0099333.jpg,391338,as-0099333,Bumper:exchange,현대,776849
+0310036_as-0099335.jpg,310036,as-0099335,Rocker panel:exchange,현대,634929
+0405998_as-0099336.jpg,405998,as-0099336,"Rear bumper:coating,repair",현대,530486
+0359015_as-0099338.jpg,359015,as-0099338,"Rear bumper:coating,repair",현대,425657
+0320134_as-0099340.jpg,320134,as-0099340,"Rear bumper:coating,repair",현대,446892
+0373854_as-0099342.jpg,373854,as-0099342,"Rear bumper:coating,exchange",현대,349279
+0501390_as-0099346.jpg,501390,as-0099346,"Rocker panel:coating,exchange,sheet_metal",현대,974199
+0067054_as-0099349.jpg,67054,as-0099349,"Rear bumper:coating,exchange",현대,825999
+0237302_as-0099351.jpg,237302,as-0099351,"Rear fender(L):coating,sheet_metal|Trunk lid:coating,exchange,sheet_metal|Rear fender(R):coating,sheet_metal|Rear bumper:coating,exchange",현대,1652679
+0346806_as-0099355.jpg,346806,as-0099355,"Front fender(R):coating,sheet_metal|Front bumper:coating,exchange|Front Wheel(R):exchange",현대,559734
+0084885_as-0099357.jpg,84885,as-0099357,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,474277
+0175231_as-0099362.jpg,175231,as-0099362,"Rear bumper:coating,repair",현대,561857
+0038332_as-0099366.jpg,38332,as-0099366,Front bumper:repair|Bumper:coating,현대,440507
+0617373_as-0099367.jpg,617373,as-0099367,"Front fender(R):coating,exchange|Front bumper:coating,exchange|Front Wheel(R):exchange",기아,549538
+0622693_as-0099368.jpg,622693,as-0099368,"Rear door(L):coating,exchange",현대,979839
+0165100_as-0099373.jpg,165100,as-0099373,Front bumper:repair|Bumper:coating,현대,686877
+0505043_as-0099375.jpg,505043,as-0099375,"Rear fender(R):coating,sheet_metal|Rear bumper:coating,repair",현대,762017
+0592525_as-0099378.jpg,592525,as-0099378,"Bumper:coating,exchange|Head lights:exchange",기아,356669
+0480771_as-0099379.jpg,480771,as-0099379,"Bumper:coating,exchange|Head lights:exchange",기아,356669
+0175950_as-0099380.jpg,175950,as-0099380,"Bumper:coating,exchange",현대,350599
+0408903_as-0099383.jpg,408903,as-0099383,"Bumper:coating,exchange|Head lights:exchange",현대,583119
+0392406_as-0099388.jpg,392406,as-0099388,"Front fender(R):sheet_metal|Rocker panel:coating,exchange|Front bumper:repair|Front Wheel(R):exchange|Front door(R):exchange,sheet_metal|Bumper:coating",르노삼성,1697367
+0038360_as-0099389.jpg,38360,as-0099389,Front bumper:repair|Bumper:coating,현대,693317
+0092157_as-0099390.jpg,92157,as-0099390,"Rear bumper:coating,repair",현대,489417
+0156456_as-0099391.jpg,156456,as-0099391,Front bumper:repair|Bumper:coating,현대,435007
+0031928_as-0099392.jpg,31928,as-0099392,Front bumper:repair|Bumper:coating,현대,731947
+0317188_as-0099397.jpg,317188,as-0099397,"Rear bumper:coating,exchange",현대,350259
+0337925_as-0099399.jpg,337925,as-0099399,"Rear fender(L):coating,sheet_metal",현대,385998
+0151684_as-0099400.jpg,151684,as-0099400,"Bumper:coating,exchange|Head lights:exchange",현대,701289
+0063546_as-0099401.jpg,63546,as-0099401,"Bumper:coating,exchange|Head lights:exchange",현대,739039
+0353963_as-0099405.jpg,353963,as-0099405,"Rear fender(R):coating,sheet_metal,exchange|Rear door(R):exchange,coating|Front door(R):sheet_metal,coating,exchange|Rocker panel:exchange",현대,1269238
+0195450_as-0099407.jpg,195450,as-0099407,"Bumper:coating,exchange|Head lights:exchange",현대,438549
+0389002_as-0099409.jpg,389002,as-0099409,Front fender(L):exchange|Bumper:coating|Front bumper:exchange,현대,536079
+0492091_as-0099411.jpg,492091,as-0099411,Bumper:coating,현대,597809
+0309063_as-0099414.jpg,309063,as-0099414,"Rear fender(L):coating,sheet_metal|Rear bumper:coating,exchange",현대,769389
+0006633_as-0099425.jpg,6633,as-0099425,"Bumper:coating,exchange|Head lights:exchange",현대,462359
+0206009_as-0099427.jpg,206009,as-0099427,"Rear door(R):coating,sheet_metal|Rear fender(R):coating,sheet_metal",현대,636829
+0282347_as-0099429.jpg,282347,as-0099429,"Rear bumper:coating,exchange",현대,813909
+0263315_as-0099430.jpg,263315,as-0099430,Front bumper:repair|Bumper:coating,현대,569527
+0177445_as-0099433.jpg,177445,as-0099433,"Trunk lid:coating,sheet_metal|Rear Wheel(R):exchange|Rocker panel:exchange|Rear bumper:coating,exchange|Rear fender(L):coating,exchange,sheet_metal|Rear fender(R):coating,exchange,sheet_metal",현대,2752019
+0537427_as-0099434.jpg,537427,as-0099434,"Front fender(R):exchange,sheet_metal|Front bumper:repair|Bumper:coating",현대,769047
+0503353_as-0099435.jpg,503353,as-0099435,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal|Rear bumper:coating,exchange",현대,965729
+0189628_as-0099438.jpg,189628,as-0099438,Front bumper:repair|Bumper:coating,현대,777647
+0091716_as-0099439.jpg,91716,as-0099439,"Rear fender(L):sheet_metal,exchange,coating",현대,410419
+0434970_as-0099440.jpg,434970,as-0099440,"Rear bumper:coating,exchange",한국GM,252169
+0167930_as-0099442.jpg,167930,as-0099442,Bumper:exchange,현대,461129
+0347945_as-0099443.jpg,347945,as-0099443,"Rear bumper:coating,exchange",현대,372968
+0333478_as-0099446.jpg,333478,as-0099446,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,510497
+0140681_as-0099455.jpg,140681,as-0099455,"Rear fender(R):coating,sheet_metal|Rear door(R):exchange,coating,sheet_metal",현대,1012919
+0030187_as-0099457.jpg,30187,as-0099457,Front bumper:repair|Bumper:coating,현대,694177
+0465134_as-0099459.jpg,465134,as-0099459,"Trunk lid:coating,exchange,sheet_metal|Rear bumper:coating,exchange",현대,1170719
+0300244_as-0099460.jpg,300244,as-0099460,"Bumper:coating,exchange",현대,582829
+0014384_as-0099461.jpg,14384,as-0099461,"Rear bumper:coating,repair",현대,428907
+0475624_as-0099462.jpg,475624,as-0099462,Front bumper:repair|Bumper:coating,현대,406077
+0330595_as-0099463.jpg,330595,as-0099463,"Bumper:coating,exchange",현대,374489
+0567050_as-0099469.jpg,567050,as-0099469,Front bumper:repair|Bumper:coating,현대,400577
+0123113_as-0099481.jpg,123113,as-0099481,"Rocker panel:exchange|Rear bumper:coating,repair|Rear door(L):coating,exchange|Rear fender(L):coating,sheet_metal",현대,1436217
+0051832_as-0099482.jpg,51832,as-0099482,"Rocker panel:exchange|Rear bumper:coating,repair|Rear door(L):coating,exchange|Rear fender(L):coating,sheet_metal",현대,1436217
+0314417_as-0099483.jpg,314417,as-0099483,"Bumper:coating,exchange|Rocker panel:exchange|Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal|Side mirror(R):exchange",현대,1052929
+0495373_as-0099484.jpg,495373,as-0099484,"Rear bumper:coating,exchange",현대,377579
+0185473_as-0099485.jpg,185473,as-0099485,"Bumper:coating,exchange|Front bumper:repair",현대,927997
+0005367_as-0099491.jpg,5367,as-0099491,"Bumper:coating,exchange|Head lights:exchange",현대,533389
+0150495_as-0099493.jpg,150495,as-0099493,"Bumper:coating,exchange",현대,623529
+0045819_as-0099499.jpg,45819,as-0099499,"Rear bumper:coating,repair",현대,445627
+0083127_as-0099506.jpg,83127,as-0099506,"Bumper:coating,exchange|Head lights:exchange",현대,706449
+0612748_as-0099508.jpg,612748,as-0099508,"Rocker panel:coating|Rear door(L):coating,sheet_metal,exchange|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",현대,1444337
+0057176_as-0099512.jpg,57176,as-0099512,"Rear bumper:coating,repair",기아,410206
+0357294_as-0099513.jpg,357294,as-0099513,"Bumper:coating,exchange",기아,745179
+0487893_as-0099514.jpg,487893,as-0099514,"Rear door(R):coating,exchange",현대,291539
+0237352_as-0099517.jpg,237352,as-0099517,"Bumper:coating,exchange|Head lights:exchange",현대,862899
+0038755_as-0099519.jpg,38755,as-0099519,"Rear fender(L):coating,sheet_metal|Rear Wheel(L):exchange|Rear bumper:coating,exchange",르노삼성,1108265
+0210673_as-0099520.jpg,210673,as-0099520,Front bumper:exchange,기아,127900
+0412859_as-0099521.jpg,412859,as-0099521,"Rear fender(L):coating,sheet_metal|Rear Wheel(L):exchange|Rear bumper:coating,exchange",르노삼성,1108265
+0053606_as-0099523.jpg,53606,as-0099523,Front bumper:repair|Bumper:coating,기아,699877
+0497859_as-0099525.jpg,497859,as-0099525,"Rear bumper:coating,repair",현대,423737
+0158976_as-0099527.jpg,158976,as-0099527,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,1069257
+0507590_as-0099538.jpg,507590,as-0099538,"Bumper:coating,exchange|Front bumper:repair|Side mirror(R):exchange",현대,1000117
+0470480_as-0099539.jpg,470480,as-0099539,"Head lights:exchange|Front bumper:coating,repair|Front fender(L):coating,sheet_metal",기아,519138
+0500273_as-0099542.jpg,500273,as-0099542,"Rear bumper:coating,exchange",현대,323047
+0341358_as-0099546.jpg,341358,as-0099546,"Rear bumper:coating,repair",현대,435547
+0073101_as-0099548.jpg,73101,as-0099548,"Bumper:coating,exchange|Head lights:exchange",기아,438169
+0181860_as-0099550.jpg,181860,as-0099550,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,sheet_metal|Rear bumper:coating,exchange",현대,832978
+0042788_as-0099553.jpg,42788,as-0099553,"Rear Wheel(L):exchange|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",현대,821137
+0046559_as-0099555.jpg,46559,as-0099555,"Front fender(R):sheet_metal|Trunk lid:coating,sheet_metal|Front bumper:repair|Front Wheel(R):exchange|Bumper:coating|Rear bumper:coating",현대,2221117
+0382036_as-0099561.jpg,382036,as-0099561,"Rear door(R):coating,sheet_metal|Rear fender(R):coating,sheet_metal",현대,888419
+0251989_as-0099563.jpg,251989,as-0099563,"Rear fender(L):coating,sheet_metal|Rear Wheel(L):exchange|Rear bumper:coating,exchange",현대,802329
+0184792_as-0099568.jpg,184792,as-0099568,"Bumper:coating,exchange|Head lights:exchange",현대,345929
+0260577_as-0099569.jpg,260577,as-0099569,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange|B pillar(R):sheet_metal",현대,820039
+0395768_as-0099570.jpg,395768,as-0099570,"Front bumper:coating,exchange|Front fender(L):coating,sheet_metal",기아,505738
+0269023_as-0099571.jpg,269023,as-0099571,"Bumper:coating,exchange|Rear Wheel(R):exchange|C pillar(L):exchange|Trunk lid:coating,exchange|Rear bumper:coating,exchange|Rear fender(L):coating,sheet_metal|Head lights:exchange|C pillar(R):exchange|Rear Wheel(L):exchange|Rear fender(R):coating,exchange",현대,3322248
+0086002_as-0099572.jpg,86002,as-0099572,Rocker panel:exchange|Bumper:exchange,현대,580199
+0254456_as-0099576.jpg,254456,as-0099576,"Bumper:coating,exchange",현대,331369
+0380214_as-0099577.jpg,380214,as-0099577,"Rear bumper:coating,repair",현대,445717
+0469087_as-0099578.jpg,469087,as-0099578,Front bumper:repair|Bumper:coating,현대,1000067
+0018749_as-0099579.jpg,18749,as-0099579,Front fender(R):sheet_metal|Bumper:coating|Front bumper:exchange|Front Wheel(R):exchange,기아,507789
+0240056_as-0099586.jpg,240056,as-0099586,"Rear door(R):coating,exchange,sheet_metal|Rear fender(R):exchange",기아,690519
+0361333_as-0099590.jpg,361333,as-0099590,"Rear bumper:coating,repair",현대,486797
+0212346_as-0099591.jpg,212346,as-0099591,Front fender(L):exchange|Bumper:coating|Front Wheel(L):sheet_metal|Front bumper:exchange,기아,522549
+0399621_as-0099594.jpg,399621,as-0099594,"Bumper:coating,exchange|Head lights:exchange",현대,914369
+0444387_as-0099598.jpg,444387,as-0099598,"Rear bumper:coating,exchange",르노삼성,330819
+0121969_as-0099603.jpg,121969,as-0099603,Front bumper:repair|Bumper:coating,현대,662342
+0527823_as-0099606.jpg,527823,as-0099606,"Rear bumper:coating,exchange",현대,388769
+0088555_as-0099611.jpg,88555,as-0099611,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange|Rocker panel:exchange",현대,1082569
+0473143_as-0099612.jpg,473143,as-0099612,Front bumper:repair|Bumper:coating,현대,530132
+0385308_as-0099613.jpg,385308,as-0099613,Front bumper:repair|Bumper:coating,기아,780687
+0319171_as-0099614.jpg,319171,as-0099614,"Rear bumper:coating,exchange",현대,363919
+0309953_as-0099616.jpg,309953,as-0099616,"Bumper:coating,exchange|Head lights:exchange",현대,557369
+0426794_as-0099618.jpg,426794,as-0099618,"Rear bumper:coating,repair",현대,472917
+0448597_as-0099619.jpg,448597,as-0099619,Front bumper:repair|Bumper:coating,현대,639417
+0273471_as-0099622.jpg,273471,as-0099622,"Rear bumper:coating,repair|Rocker panel:exchange|B pillar(R):coating,sheet_metal|Rear fender(R):coating,exchange,sheet_metal|Rear door(R):coating,exchange",현대,1713686
+0006409_as-0099623.jpg,6409,as-0099623,"Front fender(R):coating,sheet_metal|Front bumper:coating,exchange|Head lights:exchange",한국GM,368794
+0358703_as-0099626.jpg,358703,as-0099626,"Rear fender(R):coating,exchange|C pillar(R):exchange|Rear bumper:coating,exchange",현대,919049
+0320014_as-0099635.jpg,320014,as-0099635,"Bumper:coating,exchange",현대,335809
+0438478_as-0099637.jpg,438478,as-0099637,"Front door(R):coating,exchange,sheet_metal|Rocker panel:coating|Side mirror(R):coating|Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange,sheet_metal",현대,1174448
+0348206_as-0099644.jpg,348206,as-0099644,"Rear door(R):coating,sheet_metal|Rear fender(R):coating,sheet_metal",현대,649049
+0327424_as-0099647.jpg,327424,as-0099647,"Rear bumper:coating,exchange",현대,355605
+0572686_as-0099653.jpg,572686,as-0099653,"Rear Wheel(L):exchange|Rear door(L):coating,sheet_metal,exchange|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",현대,1047607
+0116620_as-0099662.jpg,116620,as-0099662,"Front fender(L):exchange,sheet_metal|Bumper:coating|Front bumper:exchange",현대,608069
+0164618_as-0099668.jpg,164618,as-0099668,Front bumper:repair|Bumper:coating,현대,521517
+0122639_as-0099676.jpg,122639,as-0099676,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,458677
+0099195_as-0099681.jpg,99195,as-0099681,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,507862
+0489319_as-0099682.jpg,489319,as-0099682,"Rear Wheel(R):exchange|Rear bumper:coating,repair",현대,537527
+0260867_as-0099686.jpg,260867,as-0099686,"Front door(R):coating,sheet_metal",기아,388398
+0264065_as-0099689.jpg,264065,as-0099689,"Bumper:coating,exchange|Head lights:exchange",현대,350869
+0421200_as-0099690.jpg,421200,as-0099690,"Head lights:exchange|Front bumper:exchange,repair|Bumper:coating",기아,458467
+0361318_as-0099692.jpg,361318,as-0099692,Front bumper:repair|Bumper:coating,현대,652987
+0621444_as-0099696.jpg,621444,as-0099696,"Bumper:coating,exchange|Head lights:exchange",현대,310309
+0084982_as-0099698.jpg,84982,as-0099698,"Bumper:coating,exchange|Head lights:exchange",현대,296939
+0158373_as-0099701.jpg,158373,as-0099701,"Rear bumper:coating,repair",현대,434667
+0309893_as-0099703.jpg,309893,as-0099703,"Bumper:coating,exchange|Head lights:exchange",기아,743529
+0093697_as-0099707.jpg,93697,as-0099707,"Front door(R):exchange|Rear door(R):coating,exchange,sheet_metal",현대,680399
+0589986_as-0099708.jpg,589986,as-0099708,"Rear Wheel(R):exchange|Rear bumper:coating,exchange|C pillar(R):exchange|B pillar(R):coating,sheet_metal|Rear fender(R):coating,sheet_metal|Rear door(R):coating,exchange",현대,1476359
+0251758_as-0099709.jpg,251758,as-0099709,"Trunk lid:exchange|Rear bumper:coating,exchange",현대,526649
+0068183_as-0099711.jpg,68183,as-0099711,"Rear fender(R):exchange|Rear bumper:coating,exchange",르노삼성,407719
+0477678_as-0099712.jpg,477678,as-0099712,"Bumper:coating,exchange",기아,331099
+0463673_as-0099715.jpg,463673,as-0099715,"Rear bumper:coating,exchange",현대,433589
+0231454_as-0099716.jpg,231454,as-0099716,"Rear bumper:coating,exchange",현대,301179
+0007260_as-0099721.jpg,7260,as-0099721,Front bumper:repair|Bumper:coating,현대,492957
+0116903_as-0099723.jpg,116903,as-0099723,"Rear bumper:coating,repair|Trunk lid:coating,sheet_metal",현대,717168
+0498767_as-0099728.jpg,498767,as-0099728,"Rear door(R):exchange,sheet_metal,coating",현대,429999
+0612902_as-0099732.jpg,612902,as-0099732,Rear bumper:coating,현대,808869
+0449542_as-0099734.jpg,449542,as-0099734,"Rear bumper:coating,exchange",현대,467049
+0322727_as-0099738.jpg,322727,as-0099738,"Bumper:coating,exchange",현대,331369
+0120690_as-0099746.jpg,120690,as-0099746,"Rear bumper:coating,repair",현대,484622
+0420793_as-0099749.jpg,420793,as-0099749,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,415707
+0260247_as-0099750.jpg,260247,as-0099750,"Bumper:coating,exchange|Head lights:exchange",현대,925019
+0141893_as-0099752.jpg,141893,as-0099752,Front bumper:repair|Bumper:coating,현대,624117
+0313897_as-0099753.jpg,313897,as-0099753,Front bumper:repair|Bumper:coating,기아,311237
+0188888_as-0099755.jpg,188888,as-0099755,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,997547
+0469076_as-0099757.jpg,469076,as-0099757,Front bumper:repair|Bumper:coating,현대,440057
+0421494_as-0099758.jpg,421494,as-0099758,Front bumper:repair|Front Wheel(L):exchange|Front fender(L):sheet_metal|Bumper:coating,르노삼성,658312
+0473324_as-0099761.jpg,473324,as-0099761,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,512297
+0384436_as-0099762.jpg,384436,as-0099762,"Front door(R):exchange,sheet_metal|Front fender(R):sheet_metal|Front bumper:repair|Bumper:coating",현대,887067
+0033831_as-0099763.jpg,33831,as-0099763,"Rear fender(R):coating,sheet_metal|Rear door(L):coating,exchange,sheet_metal",현대,1024869
+0531466_as-0099764.jpg,531466,as-0099764,"Front fender(L):coating,sheet_metal|Front bumper:repair,coating",현대,666496
+0435565_as-0099767.jpg,435565,as-0099767,"Bumper:coating,exchange|Head lights:exchange",현대,3047048
+0445462_as-0099770.jpg,445462,as-0099770,Front bumper:repair|Front fender(R):exchange|Bumper:coating,쌍용,435057
+0295963_as-0099778.jpg,295963,as-0099778,"Rear bumper:coating,exchange",현대,465879
+0406909_as-0099781.jpg,406909,as-0099781,"Rear fender(R):exchange|Rear bumper:coating,exchange",기아,678239
+0337796_as-0099784.jpg,337796,as-0099784,Front fender(L):exchange|Bumper:coating|Front Wheel(L):sheet_metal|Front bumper:exchange,기아,522549
+0313221_as-0099786.jpg,313221,as-0099786,"Rear bumper:coating,exchange",현대,590559
+0202321_as-0099793.jpg,202321,as-0099793,"Rear door(L):coating,exchange,sheet_metal|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",한국GM,876767
+0508747_as-0099795.jpg,508747,as-0099795,"Rear Wheel(R):exchange|Rear door(R):exchange,coating",현대,452929
+0250139_as-0099799.jpg,250139,as-0099799,"Front fender(R):coating,sheet_metal|Front bumper:coating,repair",현대,631664
+0043192_as-0099804.jpg,43192,as-0099804,"Front fender(L):coating,exchange",기아,245698
+0071776_as-0099809.jpg,71776,as-0099809,Front bumper:repair|Bumper:coating,현대,440967
+0314996_as-0099810.jpg,314996,as-0099810,"Bumper:coating,exchange|Head lights:exchange",현대,362099
+0092777_as-0099811.jpg,92777,as-0099811,"Front fender(R):coating,exchange|Front bumper:coating,repair|Front Wheel(R):exchange",기아,495146
+0022302_as-0099814.jpg,22302,as-0099814,"Rear bumper:coating,repair",현대,543562
+0583143_as-0099815.jpg,583143,as-0099815,"Rear fender(R):coating,sheet_metal|Rear door(R):coating,sheet_metal|Bumper:exchange",현대,1094529
+0355197_as-0099816.jpg,355197,as-0099816,"Rear bumper:coating,exchange",현대,323317
+0106731_as-0099819.jpg,106731,as-0099819,"Rear bumper:coating,repair",현대,463447
+0386460_as-0099820.jpg,386460,as-0099820,"Rear fender(L):coating,sheet_metal,exchange|Rear bumper:coating,repair",현대,644517
+0108325_as-0099823.jpg,108325,as-0099823,Front door(L):exchange|Front fender(L):exchange,르노삼성,639159
+0152334_as-0099826.jpg,152334,as-0099826,"Front bumper:repair|Front door(L):sheet_metal|Bumper:coating|Front fender(L):exchange|Rear door(L):coating,exchange,sheet_metal|Front Wheel(L):exchange",기아,1177967
+0391115_as-0099829.jpg,391115,as-0099829,"Bumper:coating,exchange",현대,379959
+0266779_as-0099840.jpg,266779,as-0099840,"Front fender(L):exchange,sheet_metal|Front bumper:repair|Front Wheel(L):exchange|Bumper:coating",현대,713197
+0475532_as-0099841.jpg,475532,as-0099841,"Rear bumper:coating,repair",현대,571032
+0100058_as-0099842.jpg,100058,as-0099842,Head lights:exchange|Bumper:coating|Front bumper:exchange,현대,355509
+0311427_as-0099843.jpg,311427,as-0099843,Front door(R):exchange,르노삼성,376879
+0436145_as-0099845.jpg,436145,as-0099845,"Rear fender(L):coating,sheet_metal|Trunk lid:coating,exchange,sheet_metal|Rear bumper:coating,exchange",현대,966309
+0277310_as-0099848.jpg,277310,as-0099848,"Bumper:coating,exchange|Head lights:exchange",현대,307589
+0448359_as-0099853.jpg,448359,as-0099853,"Bumper:coating,exchange|Head lights:exchange",현대,672599
+0505587_as-0099858.jpg,505587,as-0099858,"Rear bumper:coating,exchange|Trunk lid:coating,sheet_metal",현대,845018
+0441030_as-0099859.jpg,441030,as-0099859,"Bumper:coating,exchange|Head lights:exchange",현대,316549
+0416209_as-0099864.jpg,416209,as-0099864,"Bumper:coating,exchange",기아,469979
+0545809_as-0099865.jpg,545809,as-0099865,"Bumper:coating,exchange",기아,489669
+0158085_as-0099869.jpg,158085,as-0099869,"Front fender(R):coating,exchange|Front bumper:coating,exchange|Head lights:exchange",현대,480458
+0208326_as-0099873.jpg,208326,as-0099873,"Front bumper:coating,exchange",현대,360794
+0209054_as-0099876.jpg,209054,as-0099876,"Bumper:coating,exchange",현대,349489
+0196232_as-0099886.jpg,196232,as-0099886,"Bumper:coating,exchange",현대,317859
+0249503_as-0099887.jpg,249503,as-0099887,"Rear bumper:coating,exchange",기아,374529
+0444637_as-0099893.jpg,444637,as-0099893,"Rear bumper:coating,exchange",기아,651829
+0129948_as-0099897.jpg,129948,as-0099897,"Front bumper:coating,exchange",현대,1127316
+0236479_as-0099900.jpg,236479,as-0099900,Front bumper:repair|Bumper:coating,현대,634117
+0605620_as-0099902.jpg,605620,as-0099902,"Rear fender(L):sheet_metal,coating|Rear bumper:coating,exchange",현대,798549
+0333480_as-0099903.jpg,333480,as-0099903,Front bumper:repair|Bumper:coating,한국GM,388717
+0030620_as-0099909.jpg,30620,as-0099909,"Rear bumper:coating,exchange",현대,281469
+0106268_as-0099910.jpg,106268,as-0099910,"Rear bumper:coating,exchange",현대,325319
+0394385_as-0099911.jpg,394385,as-0099911,"Bumper:coating,exchange|Head lights:exchange",현대,454639
+0089876_as-0099912.jpg,89876,as-0099912,Front bumper:repair|Bumper:coating,현대,563767
+0113155_as-0099913.jpg,113155,as-0099913,Front bumper:repair|Bumper:coating,현대,748457
+0288160_as-0099914.jpg,288160,as-0099914,"Rear bumper:coating,repair",현대,522917
+0046415_as-0099917.jpg,46415,as-0099917,Front bumper:repair|Bumper:coating,현대,577637
+0385946_as-0099918.jpg,385946,as-0099918,"Bumper:coating,exchange|Head lights:exchange",기아,2439709
+0266373_as-0099921.jpg,266373,as-0099921,Front door(L):exchange|Front fender(L):exchange,현대,564679
+0244230_as-0099925.jpg,244230,as-0099925,Bumper:coating|Front bumper:exchange,기아,269789
+0236706_as-0099929.jpg,236706,as-0099929,Front door(L):exchange|Front fender(L):exchange,르노삼성,639159
+0152406_as-0099931.jpg,152406,as-0099931,"Rear Wheel(R):exchange|Rear bumper:coating,repair",현대,535257
+0011228_as-0099936.jpg,11228,as-0099936,Head lights:exchange|Front bumper:repair|Front Wheel(L):exchange|Bumper:coating,기아,651397
+0229280_as-0099940.jpg,229280,as-0099940,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,780337
+0132317_as-0099941.jpg,132317,as-0099941,"Bumper:coating,exchange",현대,585679
+0137910_as-0099945.jpg,137910,as-0099945,"Bumper:coating,exchange|Front bumper:repair",기아,607807
+0404957_as-0099946.jpg,404957,as-0099946,"Rear door(R):exchange,sheet_metal,coating",현대,437979
+0081161_as-0099947.jpg,81161,as-0099947,Bumper:coating,현대,412179
+0418971_as-0099951.jpg,418971,as-0099951,"Rear fender(R):coating,sheet_metal|Rear bumper:coating,repair",기아,625167
+0237426_as-0099952.jpg,237426,as-0099952,"Bumper:coating,exchange|Head lights:exchange",현대,341339
+0173677_as-0099957.jpg,173677,as-0099957,Bumper:exchange,쌍용,869999
+0382721_as-0099964.jpg,382721,as-0099964,Front bumper:repair|Bumper:coating,현대,458687
+0466261_as-0099965.jpg,466261,as-0099965,"Rear bumper:coating,exchange",기아,460348
+0003674_as-0099966.jpg,3674,as-0099966,"Front bumper:coating,repair",기아,464336
+0145175_as-0099969.jpg,145175,as-0099969,"Rear Wheel(L):exchange|Rear door(L):coating,exchange,sheet_metal|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",기아,1009987
+0244993_as-0099970.jpg,244993,as-0099970,"Bumper:coating,exchange|Head lights:exchange",현대,1441859
+0071280_as-0099974.jpg,71280,as-0099974,"Bumper:coating,exchange|Head lights:exchange",현대,473919
+0157719_as-0099976.jpg,157719,as-0099976,"Rear bumper:coating,exchange|Trunk lid:coating,sheet_metal",현대,501379
+0023632_as-0099983.jpg,23632,as-0099983,"Bumper:coating,exchange",현대,379959
+0431398_as-0099986.jpg,431398,as-0099986,"Bumper:coating,exchange|Front bumper:repair|Side mirror(R):exchange",현대,1000117
+0383808_as-0099990.jpg,383808,as-0099990,Head lights:exchange|Front bumper:repair|Bumper:coating,현대,460947
+0265842_as-0099994.jpg,265842,as-0099994,"Rear Wheel(L):exchange|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",현대,821137
+0235783_as-0099995.jpg,235783,as-0099995,"Rear bumper:exchange|Rear Wheel(L):exchange|Rear door(L):coating,exchange|Rear fender(L):exchange",현대,896659
+0045561_as-0099998.jpg,45561,as-0099998,"Rear bumper:coating,repair|Rear Wheel(R):exchange|Front door(R):exchange,sheet_metal|Rear fender(R):coating,exchange,sheet_metal|Rear door(R):coating,exchange,sheet_metal",르노삼성,1423227
+0300000_as-0100001.jpg,300000,as-0100001,"Rear fender(L):coating,sheet_metal|Rear Wheel(L):exchange|Rear bumper:coating,exchange",현대,802329
+0078313_as-0100004.jpg,78313,as-0100004,Bumper:coating|Front bumper:exchange,기아,274949
+0505088_as-0100005.jpg,505088,as-0100005,"Front bumper:repair|Bumper:coating|Rear bumper:coating,exchange",현대,1144477
+0377857_as-0100006.jpg,377857,as-0100006,"Bumper:coating,exchange|Front bumper:repair",현대,710627
+0339860_as-0100007.jpg,339860,as-0100007,"Rear bumper:coating,exchange",한국GM,283779
+0319257_as-0100012.jpg,319257,as-0100012,"Rocker panel:exchange|Rear door(L):coating,sheet_metal|Rear bumper:coating,repair|Rear fender(L):coating,sheet_metal",현대,1262247
+0466182_as-0100013.jpg,466182,as-0100013,"Rear door(R):coating,sheet_metal|Rear fender(R):coating,sheet_metal",현대,705609
+0356888_as-0100014.jpg,356888,as-0100014,Front fender(R):sheet_metal|Bumper:coating|Front bumper:exchange|Front Wheel(R):exchange,기아,507789
+0201603_as-0100015.jpg,201603,as-0100015,"Rear bumper:coating,exchange",현대,362279
+0076198_as-0100016.jpg,76198,as-0100016,"Rear door(L):coating,sheet_metal|Front door(L):sheet_metal",기아,637779
+0134248_as-0100020.jpg,134248,as-0100020,"Bumper:coating,exchange",기아,277599
+0079673_as-0100023.jpg,79673,as-0100023,Side mirror(L):exchange,현대,277789
+0578100_as-0100025.jpg,578100,as-0100025,"Rear fender(L):coating,sheet_metal,exchange|Rear bumper:coating,exchange",현대,881065
+0500326_as-0100032.jpg,500326,as-0100032,"Rear fender(L):coating,sheet_metal|Rear bumper:coating,repair",현대,646927
+0164351_as-0100034.jpg,164351,as-0100034,"Bumper:coating,exchange|Head lights:exchange",현대,886979
+0298929_as-0100037.jpg,298929,as-0100037,"Bumper:coating,exchange|Head lights:exchange",현대,570919
+0034390_as-0100039.jpg,34390,as-0100039,Front bumper:exchange,쌍용,621719
+0444481_as-0100040.jpg,444481,as-0100040,"Bumper:coating,exchange|Head lights:exchange",현대,309999
+0410635_as-0100044.jpg,410635,as-0100044,"Rear fender(L):coating,exchange,sheet_metal|Rear bumper:coating,repair",현대,662107
+0494461_as-0100058.jpg,494461,as-0100058,"Rear fender(R):coating,sheet_metal|Rear door(R):exchange,coating,sheet_metal",현대,770269
+0498918_as-0100059.jpg,498918,as-0100059,Bumper:coating|Front bumper:exchange,기아,280279
+0517968_as-0100061.jpg,517968,as-0100061,"Front bumper:coating,exchange|Front Wheel(L):exchange|Front fender(L):exchange,coating|Side mirror(L):exchange,coating",한국GM,665978
+0008242_as-0100063.jpg,8242,as-0100063,Front bumper:repair|Bumper:coating,현대,834492
+0054421_as-0100068.jpg,54421,as-0100068,"Rear door(R):sheet_metal,coating|Rear fender(R):sheet_metal,coating",현대,717579
+0623942_as-0100071.jpg,623942,as-0100071,"Rear fender(R):coating,exchange|Rocker panel:exchange|Rear bumper:coating,exchange|C pillar(R):exchange|Rear fender(L):coating,exchange|Trunk lid:coating,exchange,sheet_metal",현대,3035829
+0172956_as-0100074.jpg,172956,as-0100074,"Bumper:coating,exchange|Head lights:exchange",현대,324409
+0496422_as-0100075.jpg,496422,as-0100075,"Bumper:coating,exchange",현대,339829
+0209940_as-0100078.jpg,209940,as-0100078,"Rear bumper:coating,repair|Front bumper:repair|Rear door(L):coating,sheet_metal|Rear fender(L):coating,sheet_metal|Rear Wheel(L):exchange|Bumper:coating",현대,2087075
+0469931_as-0100081.jpg,469931,as-0100081,"Rear bumper:coating,repair",현대,441047
+0129649_as-0100082.jpg,129649,as-0100082,"Bumper:coating,exchange|Head lights:exchange",한국GM,484929
+0224470_as-0100085.jpg,224470,as-0100085,"Rear fender(L):coating,sheet_metal|Rear bumper:coating,repair",현대,779402
+0351057_as-0100087.jpg,351057,as-0100087,"Bumper:coating,exchange|Head lights:exchange",현대,903219
+0445330_as-0100089.jpg,445330,as-0100089,"Rear Wheel(R):exchange|Rear fender(R):coating,sheet_metal|Rear bumper:coating,exchange",현대,708819
+0478033_as-0100095.jpg,478033,as-0100095,"Rear bumper:coating,repair",기아,525087
+0433879_as-0100096.jpg,433879,as-0100096,"Rear bumper:coating,exchange",현대,321019
+0342147_as-0100098.jpg,342147,as-0100098,"Bumper:coating,exchange",기아,265529
+0592540_as-0100099.jpg,592540,as-0100099,"Trunk lid:sheet_metal,coating,exchange|Rear bumper:coating,exchange",현대,720749
+0141736_as-0100108.jpg,141736,as-0100108,"Front Wheel(R):exchange,sheet_metal|A pillar(R):coating,exchange|Rocker panel:exchange|Front door(R):coating,exchange|Front fender(R):coating,exchange|Rear door(R):coating,exchange,sheet_metal",기아,1756908
+0013821_as-0100112.jpg,13821,as-0100112,"Trunk lid:exchange|Rear bumper:coating,exchange",현대,398999
+0459853_as-0100113.jpg,459853,as-0100113,Front bumper:repair|Bumper:coating,현대,415362
+0295600_as-0100115.jpg,295600,as-0100115,Front bumper:repair|Bumper:coating,기아,600542
+0252431_as-0100116.jpg,252431,as-0100116,"Bumper:coating,exchange|Rear bumper:coating,exchange",현대,1209559
+0181703_as-0100117.jpg,181703,as-0100117,"Rear door(R):exchange,coating|Rocker panel:exchange",현대,735069
+0237611_as-0100118.jpg,237611,as-0100118,Rear Wheel(L):exchange,현대,218010
+0339337_as-0100119.jpg,339337,as-0100119,"Bumper:coating,exchange|Head lights:exchange",현대,580139
+0422099_as-0100120.jpg,422099,as-0100120,"Rear bumper:coating,exchange",기아,575268
+0446500_as-0100122.jpg,446500,as-0100122,"Front fender(R):coating,exchange|Front bumper:coating,exchange|Head lights:exchange|Front fender(L):coating,exchange",한국GM,776053
+0062397_as-0100127.jpg,62397,as-0100127,Front bumper:repair|Bumper:coating,현대,518357
+0386467_as-0100129.jpg,386467,as-0100129,"Bumper:coating,exchange|Head lights:exchange|Front Wheel(L):repair",현대,675949
+0237732_as-0100131.jpg,237732,as-0100131,Bumper:coating,현대,336659
+0276493_as-0100133.jpg,276493,as-0100133,"Rear bumper:coating,exchange",현대,506959
+0231909_as-0100138.jpg,231909,as-0100138,"Bonnet:coating|Front bumper:coating,exchange",현대,681366
+0249645_as-0100140.jpg,249645,as-0100140,Front bumper:repair|Bumper:coating,현대,394127
+0254447_as-0100146.jpg,254447,as-0100146,"Rear fender(L):coating,exchange",현대,861178
+0123756_as-0100148.jpg,123756,as-0100148,"Front bumper:repair|Rear bumper:coating,exchange|Rear door(L):coating,sheet_metal|Rear fender(L):coating,sheet_metal|Rear Wheel(L):exchange|Bumper:coating",현대,1886256
+0151934_as-0100151.jpg,151934,as-0100151,"Rear fender(L):coating,exchange,sheet_metal|Rear door(L):exchange|Rocker panel:exchange|Rear bumper:coating,exchange",현대,953322
+0386222_as-0100154.jpg,386222,as-0100154,"Front door(R):coating,exchange,sheet_metal|Front fender(R):coating,sheet_metal|Rear door(R):coating,sheet_metal|Front Wheel(R):exchange|Front bumper:coating,exchange|Rear fender(R):coating,sheet_metal",현대,1654947
+0224112_as-0100158.jpg,224112,as-0100158,"Bumper:coating,exchange|B pillar(L):exchange|Rocker panel:exchange|B pillar(R):exchange",현대,1776039
+0341154_as-0100160.jpg,341154,as-0100160,"Rear bumper:coating,exchange",현대,416118
+0430593_as-0100161.jpg,430593,as-0100161,"Rear fender(R):coating,sheet_metal|Rear bumper:coating,exchange",현대,721619
+0023061_as-0100166.jpg,23061,as-0100166,"Rear Wheel(L):exchange|Rear bumper:coating,repair|Rear door(L):coating,exchange|Rear fender(L):coating,sheet_metal",현대,1429777
+0336637_as-0100168.jpg,336637,as-0100168,"Bumper:coating,exchange|Head lights:exchange",현대,381049
+0578448_as-0100171.jpg,578448,as-0100171,"Rear bumper:coating,exchange",현대,681829
+0278401_as-0100172.jpg,278401,as-0100172,Front bumper:repair|Bumper:coating,현대,432047
