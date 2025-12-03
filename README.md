@@ -32,6 +32,11 @@
 
 ---
 
+## 모델 구조 (Model Architecture)
+<img width="478" height="694" alt="image" src="https://github.com/user-attachments/assets/924b1248-63b7-43e8-9207-c50890743375" />
+
+---
+
 ## 성능 (Performance)
 
 ### 부위 검출 (YOLO)
@@ -54,7 +59,7 @@ Test 데이터셋 (7,500개) 기준:
 ---
 
 ## 데이터셋 (Dataset)
-* **출처:** AI Hub "차량 파손 이미지 데이터"
+* **출처:** [AI Hub "차량 파손 이미지 데이터"](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=581)
 * **구성:** 사고 차량 이미지 및 라벨링 JSON (폴리곤, 손상 종류, 수리 방법, 수리비 견적 정보 포함)
 * **규모:** Training (35,000+), Validation (7,500), Test (7,500)
 
